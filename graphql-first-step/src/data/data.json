@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Renato Aragao",
+      "email": "renato@aragao.com",
+      "telefone": "1010101010",
+      "papel": 1
+    },
+    {
+      "id": 2,
+      "nome": "Fernanda Montenegro",
+      "email": "fernanda@.com",
+      "telefone": "1014124124010",
+      "papel": 2
+    },
+    {
+      "id": 3,
+      "nome": "Batman",
+      "email": "batman@batman.com",
+      "telefone": "10101010421412410",
+      "papel": 2
+    },
+    {
+      "id": 4,
+      "nome": "SuperMan",
+      "email": "superman@superman.com",
+      "telefone": "4214214",
+      "papel": 1
+    },
+    {
+      "id": 5,
+      "nome": "Mulher Maravilha",
+      "email": "mulher@maravilha.com",
+      "telefone": "1421412414",
+      "papel": 1
+    }
+  ],
+
+  "papeis": [
+    { "id": 1, "descricao": "ADMIN" },
+    { "id": 2, "descricao": "USER" }
+  ]
+}

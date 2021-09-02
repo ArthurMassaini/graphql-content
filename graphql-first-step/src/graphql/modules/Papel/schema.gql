@@ -1,0 +1,13 @@
+type Papel {
+  id: Int
+  descricao: TipoPapel
+}
+
+enum TipoPapel {
+  ADMIN
+  USER
+}
+
+type Query {
+  papeis: [Papel]
+}
